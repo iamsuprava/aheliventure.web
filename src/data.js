@@ -59,27 +59,24 @@ export const hero = {
 };
 
 export const stats = [
-  {
-    value: '7',
-    text: 'Year Experience',
-  },
+  // {
+  //   value: '2',
+  //   text: 'Year Experience',
+  // },
   {
     value: '2',
-    text: 'Opened in the country',
+    text: 'On going Projects',
   },
+  
   {
-    value: '10k+',
-    text: 'Furniture sold',
-  },
-  {
-    value: '260+',
-    text: 'Variant Furniture',
+    value: '100+',
+    text: 'Happy Customers',
   },
 ];
 
 export const features = {
   image: <Features1Img />,
-  title: 'We Create your home more aesthetic',
+  title: 'We Create your Dream',
   subtitle:
     'We have incorporated and dream in our arteries and veins to provide the best at the lowest cost possible.Pioneering in this field we wish to justify our objective to its optimum and make our objective "Aristocracy at your affordability" real one day!',
   buttonText: 'Show Now',
@@ -88,43 +85,43 @@ export const features = {
       icon: <IoIosCheckmarkCircle />,
       title: 'Low Cost EMI',
       subtitle:
-        'Sometimes features require a short description.  This can be detailed description',
+        'Simple and Easy Process',
     },
     {
       icon: <IoIosCheckmarkCircle />,
       title: 'Easy Bank Loan Facilities',
       subtitle:
-        'Sometimes features require a short description.  This can be detailed description',
+        '100% Safe Money Transaction',
     },
   ],
   feature2: {
     image: <Features2Img />,
-    title: 'The Best Furniture Manufacturer of your choice',
+    title: 'Aheliventure - Aristocracy at Your Affordability',
     subtitle:
-      'Furnitre power is a software as services for multiperpose business management system, expecially for them who are running two or more business exploree the future Furnitre power is a software as services.',
+      'We have incorporated and dream in our arteries and veins to provide the best at the lowest cost possible.Pioneering in this field we wish to justify our objective to its optimum and make our objective "Aristocracy at your affordability" real one day!.',
   },
 };
 
 export const newInStore = {
   title: 'Our Projects',
-  subtitle: 'Get the latest items immediately with promo prices',
+  subtitle: 'We have houses built with emotions for everyone.',
   link: 'Check all',
   icon: <IoIosArrowRoundForward />,
   products: [
     {
-      name: 'chair',
+      name: 'Night View',
       image: <ChairImg />,
     },
     {
-      name: 'bed',
+      name: 'Day View',
       image: <BedImg />,
     },
     {
-      name: 'cupboard',
+      name: 'Gymnasium',
       image: <CupboardImg />,
     },
     {
-      name: 'lighting',
+      name: 'read more',
       image: <LightingImg />,
     },
   ],
@@ -315,10 +312,10 @@ export const testimonial = {
 };
 
 export const newsletter = {
-  title: 'Get more discount Off your order',
+  title: 'Get Connected with Aheliventure',
   subtitle: 'Join our mailing list',
   placeholder: 'Your email address',
-  buttonText: 'Shop Now',
+  buttonText: 'Message ',
 };
 
 export const footer = {
@@ -340,5 +337,5 @@ export const footer = {
       href: '#',
     },
   ],
-  copyright: 'FurniShop 2022 - All Rights Reserved.',
+  copyright: 'Sponsorgenix 2022 - All Rights Reserved.',
 };
