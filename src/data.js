@@ -313,7 +313,7 @@ export const testimonial = {
 
 export const newsletter = {
   title: 'Get Connected with Aheliventure',
-  subtitle: 'Join our mailing list',
+  subtitle: 'Get Started Now',
   placeholder: 'Your email address',
   buttonText: 'Message ',
 };

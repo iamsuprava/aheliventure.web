@@ -19,9 +19,11 @@ const Newsletter = () => {
               type='text'
               placeholder={placeholder}
             />
+            <a href="https://api.whatsapp.com/send?phone=+918001170130&text=%20" target="_blank">
             <button className='bg-primary h-[60px] hover:bg-slate-900 px-7 rounded-lg font-medium text-xl transition-all'>
               {buttonText}
             </button>
+            </a>
           </div>
         </div>
       </div>

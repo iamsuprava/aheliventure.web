@@ -27,9 +27,11 @@ const Footer = () => {
             })}
           </div>
         </div>
+        <a href="https://sponsorgenix.in" target="_blank">
         <p className='text-center'>
           &copy; Sponsorgenix 2022 - All Rights Reserved.
         </p>
+        </a>
       </div>
     </footer>
   );
